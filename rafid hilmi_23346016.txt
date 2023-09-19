@@ -1,0 +1,24 @@
+-TUGAS PRAKTIKUM ALGORITMA PEMOGRAMAN-
+
+1. cari dan buatlah fungsi dari file header
+    file header adalah kumpulan beberapa fitur atau fungsi yang dipanggil oleh proggrammer dengan menuliskan syntax supaya bisa dibaca oleh program beberapa fungsinya yaitu :
+    1. deklarasi fungsi 
+    2. deklarasi variabel eksternal
+    3. deklarasi konstanta
+
+2. apa fungsi \n, %c, %d, %i, %f
+    1. \n --> digunakan untuk membuat baris baru
+    2. %c --> digunakan untuk mencetak karakter tunggal (char) dalam fungsi 'printf()' dan 'scanf()'
+    3. %d --> digunakan untuk mencetak nilai angka bulat (integer) dalam sistem bilangan desimal (basis 10) dan masih dalam fungsi yang sama seperti sebelumnya
+    4. %i --> sama seperti %d yang digunakan untuk mencetak nilai angka bulat tapi %d dalam berbagai basis numerik (biner oktal decimal hexadecimal) dan masih dalam fungsi yang sama seperti sebelumnya 
+    5. %f --> digunakan untuk mencetak bilangan pecahan (float) dan masih dalam fungsi yang sama seperti sebelumnya
+    
+3. perbedaan variabel dan konstanta
+    variabel dan konstan sama-sama digunakan untuk menyimpan sebuah nilai
+    sedangkan yang membedakannya yaitu :
+    variabel --> nilainya bisa diubah-ubah selagi masih ada nilai yang diberikan
+    konstanta --> nilainya tidak bisa diubah lagi sejak sudah dideklarasikan nilainya untuk pertama kalinya
+
+4. apa fungsi printf dan scanf
+    printf --> digunakan untuk mencetak (menampilkan) data ke layar atau ke perangkat keluaran yang ditentukan.
+    scanf -->  digunakan untuk membaca (menerima) input dari pengguna atau dari perangkat input yang ditentukan dan menyimpan nilainya ke dalam variabel
